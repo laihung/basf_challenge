@@ -2,7 +2,7 @@
 ### Step 1: Install necessary packages
     npm i
 
-### Step 1: Run the application
+### Step 2: Run the application
     npm start
 
 Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
