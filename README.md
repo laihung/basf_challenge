@@ -1,4 +1,6 @@
 # BASF Challenge
+    This project was generated with React JS.
+
 ### Step 1: Execute the command `npm i`
     Install all required libraries into node_modules.
 
